@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-10",
+  "updated": "07:30 KST",
+  "headline": "이미지·영상 생성 도구가 또 한 단계 싸지고 빨라졌다 — 움직이는 GIF와 15초 영상 광고를 직접 만들 수 있는 시대",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {"title": "Anthropic, 가스발전기 1.7GW 규모 전력 확보 계약 보도", "summary": "파이낸셜타임스는 Anthropic이 약 34억 달러 규모로 1.7기가와트 가스발전기 주문을 인수했다고 보도했습니다. AI 데이터센터 전력 확보 경쟁을 보여주는 소식이며, 양사의 공식 확인은 아직 없는 상태입니다.", "source": "The Neuron (FT 인용)", "url": "https://www.theneuron.ai/news/anthropics-3-4-billion-power-deal-ai-data-centers/"},
+        {"title": "트럼프 \"AI 위험은 관리 가능, 안전장치 논의 열려 있다\"", "summary": "트럼프 대통령이 AI 위험은 관리할 수 있으며 민주당과도 안전장치를 논의할 수 있다고 밝혔습니다. 다만 규제 때문에 중국에 뒤처져서는 안 된다는 입장도 함께 강조했습니다.", "source": "Reuters", "url": "https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/"},
+        {"title": "알리바바 실전 테스트: AI 코딩 에이전트, 과제 4건 중 3건은 사람 손질 필요", "summary": "실제 업무형 과제 테스트에서 최상위 모델도 선별 과제의 26.4%만 완전히 해결했습니다. 기존 벤치마크 점수만 믿고 맡기면 안 되고 사람의 검수가 여전히 필요하다는 신호입니다.", "source": "The Decoder", "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/"},
+        {"title": "DeepSeek 에이전트 플랫폼 일간 이용자 154만 명", "summary": "블룸버그에 따르면 DeepSeek의 에이전트 플랫폼이 일간 활성 이용자 154만 명을 기록했습니다. 모델 공급을 넘어 에이전트 서비스로 영역을 넓히는 흐름입니다.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users"},
+        {"title": "애플 새 CEO, AI 개발 가속 주문…시리는 더 '에이전트'답게", "summary": "애플 신임 CEO가 시리를 넘어 AI 개발을 서두르고 있다는 보도와, 2027년께 시리가 더 에이전트처럼 동작할 수 있다는 관측이 나왔습니다. 둘 다 계획·전망 단계의 보도입니다.", "source": "MacRumors", "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/"}
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {"title": "OpenAI Images 2.6 공개 — 반복 재생 GIF 생성 지원", "summary": "ChatGPT·Codex·API에서 쓸 수 있는 새 이미지 모델입니다. 반복 재생되는 애니메이션 GIF를 만들 수 있고 속도는 최대 50% 빨라졌으며, 속도형(Flare)과 디테일·일관성형(Sunburst) 두 가지가 있습니다.", "source": "OpenAI", "url": "https://openai.com/index/introducing-images-2-6/"},
+        {"title": "Google Gemini Omni 1.2 Flash 정식 출시 — 소리 포함 15초 영상 생성·편집", "summary": "대화로 영상 클립을 만들고 수정할 수 있으며 최대 15초, 동기화된 오디오를 지원합니다. 720p 기준 초당 0.07달러로 가격이 공개됐습니다.", "source": "Google Cloud", "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/"},
+        {"title": "Pika H3 Flex — 4K·참조 12장 지원 오픈웨이트 영상 모델", "summary": "텍스트·이미지·참조 영상 기반 생성을 지원하며 최대 12개의 참조 입력과 4K 출력이 가능한 오픈웨이트 모델입니다.", "source": "Pika", "url": "https://pika.art/pika-h3-flex"},
+        {"title": "Meta Muse 앱 '스페이스' — 여행 플래너·선물 트래커 같은 맞춤 기능 제작", "summary": "프로젝트나 목표에 맞춰 나만의 활용 공간을 만들 수 있는 기능입니다. 여행 계획이나 선물 관리 같은 예시가 제시됐습니다.", "source": "Meta", "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"},
+        {"title": "AXL — ChatGPT·Claude·Cursor를 영업·마케팅 액션 1,200여 개에 연결", "summary": "MCP로 AI 도구를 영업·마케팅 업무 기능과 연결해 주는 서비스로, 출시 페이지에 무료 플랜이 안내돼 있습니다.", "source": "Product Hunt", "url": "https://www.producthunt.com/products/axl-2"}
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {"title": "코스피 5,018선 마감, 외국인 7거래일 연속 순매도", "summary": "11월 9일 코스피는 0.81% 하락한 5,018.85로 마감했습니다. 외국인이 약 6,930억 원을 순매도하며 7거래일째 팔았고, 지난주 급락의 여진이 이어졌습니다.", "source": "Businesskorea", "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280833"},
+        {"title": "원·달러 환율 1,347.1원, 나흘 만에 하락 마감", "summary": "미국 10월 고용지표 호조로 장 초반 달러가 강세를 보였지만 이후 원화가 반등해 전 거래일보다 9.5원 내린 1,347.1원에 마감했습니다.", "source": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611091533408579"}
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {"title": "움직이는 GIF로 메뉴·신상품 홍보", "summary": "OpenAI Images 2.6이 반복 재생 GIF 생성을 지원합니다.", "tip": "카페라면 '김이 올라오는 라떼', 쇼핑몰이라면 '상품이 살짝 회전하는 컷'을 GIF로 만들어 인스타 스토리·상세페이지 상단·카카오 채널 메시지에 넣어 보세요. 정지 이미지보다 시선을 끄는 데 유리하고, 촬영 비용 없이 시즌 메뉴마다 빠르게 바꿀 수 있습니다."},
+        {"title": "15초 소리 포함 영상 광고를 대화로 제작·수정", "summary": "Gemini Omni 1.2 Flash가 최대 15초 영상을 오디오와 함께 만들고 대화로 수정해 줍니다.", "tip": "릴스·숏츠용 15초 영상을 만들 때 '배경을 저녁 분위기로', '자막 문구 교체'처럼 말로 고쳐 가며 A/B 버전 2~3개를 뽑아 반응 좋은 쪽만 유료 광고로 돌리세요. 720p 기준 초당 약 0.07달러라 15초 한 편에 대략 1달러 수준이어서 테스트 부담이 낮습니다."},
+        {"title": "AI 코딩 에이전트는 '초안용', 최종 검수는 사람이", "summary": "알리바바 테스트에서 AI 코딩 에이전트가 실전 과제를 완전히 해결한 비율은 26.4%였습니다.", "tip": "바이브코딩으로 예약 페이지·이벤트 랜딩페이지를 만들 때 AI가 만든 결과를 그대로 공개하지 말고, 결제·예약 폼·개인정보 수집 부분은 직접 테스트 주문과 예약을 해 본 뒤 배포하세요. 초안은 AI로 빠르게, 돈과 고객정보가 오가는 부분은 사람이 확인하는 분업이 안전합니다."}
+      ]
+    }
+  ]
+}
