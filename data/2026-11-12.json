@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-12",
+  "updated": "07:30 KST",
+  "headline": "어도비가 포토샵·프리미어·파이어플라이에 AI 에이전트를 심고, 코스피는 AI 투자 심리 회복에 5,375로 이틀째 올랐다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {
+          "title": "OpenAI 3분기 매출 약 100억 달러, 전년 대비 50% 가까이 증가",
+          "summary": "더인포메이션 보도에 따르면 OpenAI의 3분기 매출이 약 100억 달러로 크게 늘었지만, 영업손실은 여전히 큰 상태입니다. AI 서비스 수요는 빠르게 커지는데 수익성은 아직 과제라는 점을 보여 줍니다.",
+          "source": "The Information (The Neuron 인용)",
+          "url": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter"
+        },
+        {
+          "title": "Railway 침해 사고, 탈취된 고객 비밀키로 약 74만 달러 AI 부정 결제",
+          "summary": "클라우드 배포 서비스 Railway에서 고객 비밀 정보가 유출돼 약 74만 달러의 AI 서비스 부정 사용 요금이 발생했다고 보도됐습니다. 최대 10만 개 작업 공간이 노출됐을 수 있다는 추정은 확정 수치가 아닙니다.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+        },
+        {
+          "title": "호주, AI 안전 규제기관 신설과 중대 사고 보고 의무화 추진",
+          "summary": "OpenAI 에이전트가 정부 통계 포털에 접근한 사건을 계기로, 호주 정부가 AI 안전 규제기관을 두고 심각한 사고 신고를 의무화하는 방안을 내놓았습니다. 검토 권고 18건을 수용했으나 법안은 아직 제정되지 않았습니다.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/australia-plans-ai-safety-regulator-after-openai-agent-breach"
+        },
+        {
+          "title": "미국 전력 수요 2027년까지 증가 전망, AI 데이터센터가 요인 중 하나",
+          "summary": "미국 에너지정보청(EIA)은 전력 소비가 2025년 4,216십억 kWh에서 2027년 4,370십억 kWh로 늘 것으로 내다봤습니다. AI 데이터센터 확대가 한 요인으로 거론됩니다.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-power-demand-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-11-10/"
+        }
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {
+          "title": "어도비, 포토샵·프리미어·파이어플라이에 AI 에이전트 추가하고 MCP 연동 공개",
+          "summary": "외부 AI 에이전트가 어도비의 편집 가능한 프로젝트 파일을 직접 다룰 수 있도록 MCP 연동을 열었습니다. 포토샵 2027에는 조명을 바꾸는 Relight와 스타일을 바꾸는 Generative Restyle이 들어갔습니다.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+        },
+        {
+          "title": "MiniMax H3-Image — 다운로드 가능한 이미지 생성·편집 모델",
+          "summary": "가중치를 내려받아 쓸 수 있는 이미지 생성·편집 모델로, 4K 이미지를 10초 안에 만들고 참조 이미지를 최대 16장까지 쓸 수 있다고 회사가 밝혔습니다. 성능 수치는 회사 발표 기준입니다.",
+          "source": "MiniMax",
+          "url": "https://www.minimax.io/blog/minimax-h3-image"
+        },
+        {
+          "title": "ElevenLabs Scribe v3·v3 Live — 녹음·실시간 음성 받아쓰기 모델",
+          "summary": "v3는 다국어 테스트에서 v2보다 단어 오류가 27% 적고, 실시간용 v3 Live는 이전 모델보다 의미가 바뀌는 오류가 43% 적다고 회사가 밝혔습니다.",
+          "source": "ElevenLabs",
+          "url": "https://elevenlabs.io/blog/scribe-v3"
+        },
+        {
+          "title": "알리바바 Qwen4-Max 미리보기 공개",
+          "summary": "Qwen4 시리즈의 최상위 Max 버전이 미리보기로 공개됐습니다. 코딩과 에이전트 작업에 초점을 두며 Token Plan과 일부 제품에서 쓸 수 있습니다.",
+          "source": "Alibaba Qwen (X)",
+          "url": "https://x.com/Alibaba_Qwen/status/2120335993643684315"
+        }
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {
+          "title": "코스피 5,375.36 마감, 이틀째 상승…코스닥 5.62% 급등",
+          "summary": "11월 11일 코스피는 2.60%(136.23포인트) 오른 5,375.36, 코스닥은 5.62% 오른 705.10으로 마감했습니다. 외국인이 코스피에서 약 6,590억 원 순매수했고, 코어위브 실적이 AI 인프라 수요를 확인해 줬다는 해석 속에 SK하이닉스 5.36%, 삼성전자 3.57%가 올랐습니다.",
+          "source": "MTN",
+          "url": "https://news.mtn.co.kr/article/2026111115573998013"
+        },
+        {
+          "title": "원·달러 환율 1,333.6원…13일 미국 생산자물가에 시선",
+          "summary": "원·달러 환율은 전 거래일보다 3.9원 내린 1,333.6원으로 마감했습니다. 미국 금리 인상 우려와 엔비디아 관련 불확실성, 옵션 만기 변동성이 남아 있어 13일 미국 생산자물가지수 발표가 다음 분기점으로 꼽힙니다.",
+          "source": "MTN",
+          "url": "https://news.mtn.co.kr/article/2026111115573998013"
+        }
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {
+          "title": "상품 사진 조명·분위기만 바꿔 시즌 컷 만들기",
+          "summary": "포토샵 2027의 Relight와 Generative Restyle은 이미 찍은 사진의 조명과 스타일을 바꿔 줍니다.",
+          "tip": "잘 찍은 제품·메뉴 사진 한 장을 두고 '따뜻한 저녁 조명', '크리스마스 분위기'처럼 조명과 스타일만 바꿔 연말 프로모션용 컷을 여러 장 만들어 보세요. 재촬영 없이 인스타 피드, 스마트스토어 썸네일, 카카오 채널 이미지를 한꺼번에 시즌에 맞출 수 있습니다. 실제 상품 색상과 모양이 달라 보이지 않는지는 꼭 확인하세요."
+        },
+        {
+          "title": "녹음 한 번으로 상담·후기·블로그 초안까지",
+          "summary": "ElevenLabs Scribe v3는 녹음된 음성을 여러 언어로 더 정확하게 받아 적는 것을 목표로 한 모델입니다.",
+          "tip": "손님 상담 통화나 사장님이 직접 말로 푼 메뉴·상품 이야기를 녹음해 글로 옮긴 뒤, AI에 '인스타 캡션 3개와 블로그 초안으로 정리해 줘'라고 시키세요. 타자 칠 시간이 없는 1인 사업자도 말하는 것만으로 콘텐츠 소재를 쌓을 수 있습니다. 고객 목소리를 녹음할 때는 사전 동의를 받고, 이름·연락처는 지우고 쓰세요."
+        },
+        {
+          "title": "AI 도구 연결 키(API 키) 관리가 곧 비용 방어",
+          "summary": "Railway 침해로 탈취된 비밀키가 약 74만 달러의 AI 부정 결제로 이어졌다는 보도가 나왔습니다.",
+          "tip": "바이브코딩으로 챗봇·예약 페이지를 만들었다면 API 키를 코드나 공개 저장소에 그대로 적지 말고 배포 서비스의 환경 변수에 넣으세요. AI 서비스 콘솔에서 월 사용 한도와 알림을 설정해 두고, 키가 노출됐다고 의심되면 바로 폐기 후 재발급하세요. 한도 설정 5분이 갑작스러운 요금 폭탄을 막아 줍니다."
+        }
+      ]
+    }
+  ]
+}
