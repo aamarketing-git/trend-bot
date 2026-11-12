@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-13",
+  "updated": "07:30 KST",
+  "headline": "유나이티드항공이 'AI 에이전트 대리 예약'을 막고 Anthropic은 중국 본토 이용을 차단했다 — 구글은 예/아니오 판정용 Gemini Decisions API를 내놨다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {"title": "유나이티드항공, 허가 없는 AI 에이전트의 항공권 예약 차단", "summary": "AI 비서가 유나이티드의 항공편 정보는 보여 줄 수 있지만 결제와 예약은 고객이 직접 해야 합니다. 회사는 개인정보, 실수 예약, 항공 규정을 이유로 들었고 기술이 나아지면 재검토할 수 있다고 밝혔습니다.", "source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"},
+        {"title": "연준 보먼 이사 \"AI 투자 부채·고평가가 시장 조정 부를 수 있다\"", "summary": "미셸 보먼 연준 이사가 AI 관련 부채와 부풀려진 기업가치를 우려하며, Anthropic 상장 같은 대형 거래가 시장 조정으로 이어질 수 있다고 경고했습니다.", "source": "Semafor", "url": "https://www.semafor.com/article/11/11/2026/anthropic-ipo-could-lead-to-large-correction-in-markets-fed-official-says"},
+        {"title": "Anthropic, 11월 12일부터 중국 본토 Claude 이용 차단", "summary": "개정된 지역 이용 정책이 시행돼 중국 본토와 현지 등록 기업, 이들이 직간접적으로 통제하는 주체의 Claude 사용이 막혔습니다. 웹·API·클라우드 유통 모델이 모두 대상이며, OpenAI도 11월 20일부터 제3자 플랫폼의 GPT 직접 제공에 승인을 요구합니다.", "source": "TokenPost", "url": "https://www.tokenpost.com/news/technology/53665"},
+        {"title": "미국 기업 AI 지출 10월 사상 최고, 증가세는 둔화", "summary": "Ramp의 AI 지수에서 10월 기업 AI 지출은 최고치를 기록했지만 월간 증가율은 1.65%로 느려졌습니다. 조사 데이터상 OpenAI·Anthropic 매출의 80%는 상위 1% 기업에서 나왔습니다.", "source": "The Decoder", "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/"},
+        {"title": "텐센트, 전 직원 절반을 AI 네이티브 사업으로 재배치", "summary": "마화텅 창업자가 약 10만 명 중 5만 명가량을 AI 중심 사업으로 옮기겠다고 밝혔다고 블룸버그가 보도했습니다.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push"}
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {"title": "구글 Gemini Decisions API — 예/아니오·객관식·점수 판정을 대량 처리", "summary": "한 번의 요청에 최대 1,000개의 예/아니오 질문, 객관식 결정, 점수 기준 평가를 맡기고 신뢰도 점수를 돌려받는 API입니다. 입력 100만 토큰당 0.10달러부터 시작합니다.", "source": "Google", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"},
+        {"title": "구글 랩스 Tabletop — 일정표·가계부·투표·대진표 같은 공유 공간 자동 생성", "summary": "AI 에이전트를 @멘션하면 여럿이 함께 쓰는 계획용 공간을 만들어 줍니다. 현재 미국 거주 성인 대상 대기자 명단으로만 제공됩니다.", "source": "The Verge", "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"},
+        {"title": "Databricks, 백그라운드에서 일하는 상시형 Genie 어시스턴트 공개", "summary": "회사 내부 정보를 찾아 오래 걸리는 작업까지 맡는 비서이며, 직원·프로젝트·데이터의 관계를 잇는 Ontology 기능도 함께 나왔습니다. 상시형은 프리뷰·베타로 순차 제공됩니다.", "source": "Fortune", "url": "https://fortune.com/2026/11/11/databricks/"},
+        {"title": "n8n 'Nod' — 내 PC에서 앱과 웹사이트를 대신 조작하는 오픈소스 개인 에이전트", "summary": "맥이나 PC의 별도 컴퓨터 환경을 써서 앱과 웹에서 작업을 수행하는 오픈소스 에이전트로, 자동화 도구 n8n이 내놨습니다.", "source": "Product Hunt", "url": "https://www.producthunt.com/products/n8n-io"},
+        {"title": "ScroogeFrog AI — 광고 클릭 부정 트래픽 탐지 도구", "summary": "트래픽과 캠페인을 분석해 의심스러운 클릭이나 봇 행동을 찾아내며, 광고주의 과거 데이터에 맞춘 모델도 제공할 수 있다고 소개됩니다.", "source": "Product Hunt", "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud"}
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {"title": "코스피 5,342.73 마감, 이틀 상승 뒤 0.61% 하락…외국인은 코스피서 순매수", "summary": "11월 12일 코스피는 32.63포인트 내렸고 코스닥은 1.22% 내린 696.53으로 마감했습니다. 외국인이 코스피에서 약 3,705억 원을 순매수했지만 개인·기관 매도가 지수를 눌렀습니다.", "source": "Businesskorea", "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281164"},
+        {"title": "원·달러 환율 1,330.7원, 2.9원 하락 마감", "summary": "11월 12일 원·달러 환율은 전 거래일보다 2.9원 내린 1,330.7원에 마감했습니다.", "source": "Businesskorea", "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281164"},
+        {"title": "대만 폭스콘 3분기 매출 47% 증가, 절반 이상이 AI 서버", "summary": "매출이 3조 300억 대만달러에 달했고 클라우드·네트워킹 제품, 주로 엔비디아 AI 서버가 54%를 차지했습니다. AI 인프라 투자 열기가 실적으로 확인되고 있습니다.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-partner-hon-hai-beats-profit-estimates-on-ai-iphone-duo"}
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {"title": "광고비 새는 곳부터 점검 — 부정 클릭 의심 신호 확인", "summary": "ScroogeFrog AI처럼 의심스러운 클릭과 봇 트래픽을 찾아 주는 도구가 나왔습니다.", "tip": "네이버·구글·메타 광고를 돌리고 있다면 이번 주에 클릭은 많은데 문의·주문·전화는 거의 없는 광고 그룹이 있는지 광고 관리자에서 확인하세요. 시간대나 지역이 이상하게 몰리면 그 노출을 제외하고, 의심이 크면 플랫폼 고객센터에 무효 클릭을 신고해 환불 가능 여부를 물어보세요. 새 도구는 해외 서비스라 바로 도입하기보다 이런 점검 습관을 먼저 들이는 것이 실속 있습니다."},
+        {"title": "후기·문의를 '좋음/나쁨/조치 필요'로 한꺼번에 분류하기", "summary": "Gemini Decisions API는 예/아니오·점수 판정을 대량으로 처리하는 서비스입니다.", "tip": "개발 없이도 같은 방식은 지금 쓰는 AI 챗에서 따라 할 수 있습니다. 네이버 리뷰·인스타 댓글·문의 메시지 30~50개를 붙여 넣고 '각각 긍정/부정/중립, 불만 원인 한 단어, 답글이 필요한지 예/아니오로 표로 정리해 줘'라고 시키세요. 반복되는 불만 1~2개를 찾아 메뉴·배송·응대 문구를 고치면 가장 빠른 매출 개선이 됩니다. 고객 이름이나 연락처는 지우고 넣으세요."},
+        {"title": "AI 비서가 대신 예약·주문하는 시대, 우리 가게 정보부터 정확하게", "summary": "유나이티드항공이 외부 AI 에이전트의 직접 예약을 막으면서 AI는 정보 안내까지만 하도록 했습니다.", "tip": "AI가 손님 대신 가게를 찾아볼 때 읽는 건 결국 공개된 정보입니다. 네이버 플레이스·카카오맵·인스타 소개의 영업시간, 휴무일, 메뉴·가격, 예약 방법이 서로 같은지 오늘 한 번 맞춰 보세요. 예약과 결제는 손님이 직접 하는 링크(네이버 예약 등)를 프로필 맨 위에 두면 AI 안내를 보고 온 손님도 헤매지 않습니다."}
+      ]
+    }
+  ]
+}
