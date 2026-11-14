@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-15",
+  "updated": "07:30 KST",
+  "headline": "오픈AI가 AI 에이전트 결제 지갑 '챗GPT 월렛'을 내놨고, 중국 AI 모델이 수출 금지된 엔비디아 칩으로 학습됐다는 연구가 나왔다 — 다음 주엔 엔비디아 실적과 앤트로픽 상장이 몰려 있다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {
+          "title": "대만 TSMC, 오픈AI·앤트로픽 지분에 최대 10억 달러 투자 승인",
+          "summary": "TSMC가 오픈AI와 앤트로픽 주식에 합쳐 최대 10억 달러를 투자하기로 했다고 아스테크니카가 전했습니다. 반도체 공급사가 고객사 지분을 사는 구조라 일각에서는 '순환 투자'라는 지적도 나옵니다.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai"
+        },
+        {
+          "title": "중국 대표 AI 모델들, 수출 금지된 엔비디아 블랙웰 칩으로 학습한 흔적",
+          "summary": "한 연구자가 딥시크·문샷AI·미니맥스·앤트 그룹 모델 가중치에서 블랙웰 GPU로 학습한 서명을 찾았다고 테크크런치가 보도했습니다. 칩 수출 통제의 실효성 논란이 다시 커질 수 있습니다.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+        },
+        {
+          "title": "앤트로픽 연구 '함께하면 더 나쁘다' — 에이전트 팀보다 조율자 한 명이 낫다",
+          "summary": "시뮬레이션 4종에서 사용자별 에이전트 여러 개가 따로 움직일 때보다 공용 조율 에이전트 하나가 10~45%p 더 좋은 결과를 냈다는 연구입니다. 실험은 자체 시나리오 기준이며, 관련 평가 환경 3종이 공개됐습니다.",
+          "source": "Anthropic Alignment Blog",
+          "url": "https://alignment.anthropic.com/2026/worse-together"
+        },
+        {
+          "title": "오픈소스 침투테스트 에이전트 포크가 AWS 인증정보 탈취에 악용",
+          "summary": "보안업체 아틱울프 랩스가 오픈소스 보안 에이전트 ARTEX를 변형한 도구로 공격자가 AWS 자격증명을 빼돌린 사례를 보고했습니다. 공개 AI 보안 도구가 공격에도 쓰이는 흐름이 확인된 셈입니다.",
+          "source": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/antifox-ai-pentest-fork-of-artex-caught-pulling-production-secrets-from-victim"
+        },
+        {
+          "title": "구글 리서치, 안티그래비티 '팀워크' 기능으로 수학·정보이론 난제 도전",
+          "summary": "제미나이 4 기반 여러 에이전트가 역할을 나눠 일하고, 정리 검증기(Lean 4)로 결과를 걸러내는 방식이라고 구글 리서치가 밝혔습니다. 성과는 구글 자체 발표입니다.",
+          "source": "Google Research",
+          "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature"
+        }
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {
+          "title": "OpenAI '챗GPT 월렛' — AI 에이전트가 대신 결제하는 지갑",
+          "summary": "아멕스·마스터카드·비자와 연동되며 결제마다 생체 인증을 요구합니다. 우선 미국 ChatGPT Pro 구독자부터 제공됩니다.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet/"
+        },
+        {
+          "title": "Claude Duet, 미국 대기자 명단 Pro·Max·Ultra 구독자 전체로 확대",
+          "summary": "앤트로픽이 대기 중이던 미국 유료 구독자에게 Claude Duet을 열었고, 미국 밖으로도 곧 넓힐 계획이라고 합니다. 사용량 한도 리셋도 함께 제공됩니다.",
+          "source": "Future Tools(X 게시글 인용)",
+          "url": "https://x.com/ahuja_karan/status/2121332990836163033"
+        },
+        {
+          "title": "제미나이 앱, 구글 월렛 연결로 가계·재무 인사이트 제공(미국)",
+          "summary": "플래드로 은행·카드 계좌를 선택 연동하면 제미나이가 내역을 읽고 분석합니다. 읽기 전용이라 송금이나 투자는 할 수 없습니다.",
+          "source": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"
+        },
+        {
+          "title": "llama.cpp v1.0.0 — API·ABI 안정화",
+          "summary": "로컬 AI 실행 도구 llama.cpp가 1.0에 도달해 API와 ABI가 안정화됐고, 앞으로 큰 버전 변경은 호환성 변화를 뜻합니다. 엔비디아·AMD·퀄컴·Arm·인텔 등을 지원합니다.",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+        },
+        {
+          "title": "구글 제미나이 스마트 안경 예약 판매 시작 — 12월 10일 판매",
+          "summary": "워비파커·젠틀몬스터와 만든 모델로 워비파커 프레임은 395달러, 젠틀몬스터는 449달러부터입니다.",
+          "source": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/"
+        }
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {
+          "title": "다음 주 증시 빅 이벤트 집중",
+          "summary": "18일(한국시간) 엔비디아 3분기 실적, 19일 FOMC 의사록, 20일(한국시간) 앤트로픽 상장이 예정돼 있습니다. 코스피는 미국 금리와 AI 투자심리에 좌우될 전망입니다.",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261114014700961"
+        },
+        {
+          "title": "엔·달러 환율 2개월여 만에 160엔 돌파",
+          "summary": "13일 엔화 약세로 환율이 160엔대를 넘었고 일본 당국이 이틀 연속 시장 견제에 나섰습니다. 원화 등 아시아 통화 흐름에도 변수입니다.",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261114014700961"
+        },
+        {
+          "title": "엔비디아 주가, 10월 초 고점 대비 30% 넘게 하락",
+          "summary": "젠슨 황 CEO 사임과 관련한 로이터 보도에서 엔비디아 주가가 10월 초 고점 이후 30% 이상 내렸다고 전해졌습니다. AI 관련주 변동성이 커진 배경입니다.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
+        }
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {
+          "title": "AI가 대신 결제하는 시대, 상품 정보가 곧 영업사원",
+          "summary": "챗GPT 월렛처럼 AI 에이전트가 결제까지 하는 서비스가 나오기 시작했습니다. AI가 사려면 가격·옵션·재고·배송 정보를 정확히 읽을 수 있어야 합니다.",
+          "tip": "이번 주말에 메뉴판·상품 페이지의 가격, 옵션, 영업시간, 배송비, 환불 규정을 한 장짜리 표로 정리해 스마트스토어·지도 앱·홈페이지에 똑같이 올려두세요. 정보가 제각각이면 AI 추천에서 빠질 수 있습니다."
+        },
+        {
+          "title": "AI 비서는 여러 개보다 '한 명에게 정보 몰아주기'",
+          "summary": "앤트로픽 연구에서 에이전트 여러 개가 따로 움직이는 것보다 하나의 조율자가 더 나은 결과를 냈습니다(자체 시뮬레이션 기준).",
+          "tip": "가게 소개·말투·금지 표현·자주 묻는 질문·이벤트 일정을 '브랜드 가이드 한 장'으로 만들어 하나의 AI 대화방(프로젝트)에 고정해 두고, 인스타 캡션·후기 답글·공지를 모두 거기서 만드세요. 도구마다 말투가 달라지는 문제가 줄어듭니다."
+        },
+        {
+          "title": "반복 업무 자동화는 '수신함·타이머·메모·권한·발송함' 5칸으로 설계",
+          "summary": "앤트로픽이 상시 가동 AI 에이전트의 구성 요소로 이벤트 수신함, 타이머, 메모리, 권한, 발송함을 제시했습니다.",
+          "tip": "예약 문의 자동응답을 만든다면 ①문의 수신 채널 ②'전날 오전 10시 리마인드' 같은 타이머 ③단골 선호 메모 ④'환불·할인은 사장 확인 후' 같은 권한 제한 ⑤보낸 메시지 기록을 먼저 종이에 적고 도구를 고르세요. 권한을 좁게 줘야 사고가 나도 피해가 작습니다."
+        }
+      ]
+    }
+  ]
+}
