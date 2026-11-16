@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-17",
+  "updated": "07:30 KST",
+  "headline": "코스피가 3% 넘게 급락한 가운데 미국 정부의 'AI 국가대표 기업' 지정 보도가 나왔고, 알리바바 Qwen4-Max가 공개됐다 — AI 자동화 도구는 '기본 모델 변경'과 '위험 행동 승인'을 챙길 때",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {
+          "title": "미국 정부, 엔비디아·오픈AI·앤트로픽 등 20여 곳을 'AI 국가대표'로 지정 추진 보도",
+          "summary": "월스트리트저널 보도를 인용한 기사에 따르면 트럼프 행정부가 엔비디아, 아마존, 마이크로소프트, 오픈AI, 앤트로픽 등 20여 개 기업을 AI 국가대표로 지정할 계획입니다. 지정 기업에는 수출 허가 신속 처리와 정부 지원이 제공될 수 있고, 칩과 AI 모델을 묶어 해외 정부·기업에 파는 구상이라고 합니다. 발표는 이번 주 러트닉 상무장관이 할 것으로 전해졌으며 아직 공식 확인 전입니다.",
+          "source": "NewsBytes",
+          "url": "https://www.newsbytesapp.com/news/science/trump-to-name-us-tech-firms-as-ai-national-champions/story"
+        },
+        {
+          "title": "엔비디아, AI 클라우드 업체 칩 구매에 대규모 금융 보증 제공 보도",
+          "summary": "월스트리트저널 보도를 정리한 기사는 엔비디아가 AI 클라우드 기업의 칩 구매를 돕기 위해 큰 규모의 금융 보증을 제공했고, 오픈AI와는 오하이오 데이터센터용 2,500억 달러 보증을 논의했다고 전했습니다. 임시 CEO 콜레트 크레스가 이 약속을 절반으로 줄였고 주가가 5% 하락했다는 내용입니다. AI 투자 열기의 재무 위험을 보여주는 사례로, 2차 정리 기사 기준이라 원문 확인이 필요합니다.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/"
+        },
+        {
+          "title": "구글 딥마인드 Gemini Robotics 2.5, 벤츠 생산라인 시험에서 96% 성공률",
+          "summary": "구글 딥마인드는 휴머노이드 로봇 아폴로 2에 Gemini Robotics 2.5를 얹어 메르세데스-벤츠 라인에서 부품을 집어 포장하는 시험을 했고, 성공률이 96%였다고 밝혔습니다. 개념 검증 단계의 회사 발표 수치여서 실제 현장 도입과는 거리가 있습니다.",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+        }
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {
+          "title": "알리바바 Qwen4-Max 공개 — 100만 토큰 문맥·이미지 이해, 가격은 전작보다 낮춰",
+          "summary": "Qwen이 Qwen4 구조 기반의 새 모델 Qwen4-Max를 QwenCloud에 내놨습니다. 이미지를 바로 이해하고 한 번에 100만 토큰까지 다룰 수 있으며, API 가격은 Qwen3.8-Max보다 낮다고 합니다. 성능·비용 수치는 모두 회사 발표 기준입니다.",
+          "source": "Qwen (집계 기사 경유)",
+          "url": "https://qwen.ai/blog?id=qwen4-max"
+        },
+        {
+          "title": "Browser Use 1.0.6 — 기본 모델이 더 비싼 BU 4.0으로 바뀜",
+          "summary": "웹 브라우저를 AI가 대신 조작하게 하는 오픈소스 Browser Use가 16일 1.0.6에서 기본 모델을 bu-fast에서 bu-4.0으로 바꿨습니다. 토큰당 비용이 약 15배라서, 예전 모델을 계속 쓰려면 설정에서 직접 지정해야 합니다.",
+          "source": "GitHub (Browser Use)",
+          "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.6"
+        },
+        {
+          "title": "Qwen Code v0.27.4 — 자동 모드에서도 위험한 작업은 명시적 승인 요구",
+          "summary": "알리바바의 코딩 에이전트 Qwen Code가 15일 업데이트에서 자동 모드라도 위험한 작업은 사용자 승인을 받도록 바꿨습니다. 또 페이슈(Feishu)·위컴(WeCom) 웹훅 알림과 관리형 에이전트 세션용 웹 터미널을 더했습니다.",
+          "source": "GitHub (QwenLM)",
+          "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.4"
+        }
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {
+          "title": "코스피 3.6% 급락 5,100선·코스닥 4.9% 하락, 원·달러는 1,335.7원",
+          "summary": "16일 코스피는 약 3.6% 내린 5,100선에 마감했고 코스닥은 4.86% 하락했습니다. 외국인이 코스피에서 약 1조 3,500억 원어치를 순매도했지만, 반도체 업체의 달러 매도 물량 덕에 원·달러 환율은 1원 내린 1,335.7원에 마감했습니다.",
+          "source": "베타뉴스",
+          "url": "https://www.betanews.net/article/view/beta202611160124"
+        },
+        {
+          "title": "미국 10월 물가 예상 상회로 연준 긴축 우려 재부각, 달러지수 1년 7개월 만의 최고",
+          "summary": "같은 기사에 따르면 미국 10월 소비자물가가 예상보다 높게 나오며 연준의 추가 금리 인상 우려가 커졌고, 달러지수는 103.44로 약 1년 7개월 만의 최고 수준까지 올랐습니다. 중동 긴장도 불확실성 요인으로 꼽혔습니다.",
+          "source": "베타뉴스",
+          "url": "https://www.betanews.net/article/view/beta202611160124"
+        }
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {
+          "title": "AI 자동화 도구는 업데이트 때 '기본 모델'부터 확인",
+          "summary": "Browser Use 1.0.6처럼 도구가 업데이트되며 기본 모델이 바뀌면 같은 작업의 비용이 15배까지 달라질 수 있습니다.",
+          "tip": "후기 수집·가격 비교·예약 확인 같은 반복 작업을 AI로 돌리고 있다면 ① 쓰는 모델 이름을 설정에 직접 고정하고 ② 도구 자동 업데이트를 끄거나 업데이트 후 첫 사용 때 결제 내역을 확인하고 ③ 월 사용 한도 알림을 걸어 두세요."
+        },
+        {
+          "title": "예약·주문·게시 자동화에는 '보내기 전 사람 확인' 한 칸 넣기",
+          "summary": "Qwen Code가 자동 모드에서도 위험한 작업은 승인을 요구하도록 바꾼 것처럼, AI에게 실행 권한을 줄 때는 되돌릴 수 없는 동작에 확인 단계를 두는 흐름입니다.",
+          "tip": "인스타 게시, 고객 문자 발송, 주문·결제처럼 취소가 어려운 동작은 AI가 초안·입력까지만 하고 '발송' 버튼은 사장님이 누르게 설정하세요. 쓰는 도구에 승인 옵션이 있으면 켜고, 없다면 체크리스트로 '내용·금액·수신자 3가지 확인 후 발송' 규칙을 정해 두면 실수를 크게 줄일 수 있습니다."
+        }
+      ]
+    }
+  ]
+}
