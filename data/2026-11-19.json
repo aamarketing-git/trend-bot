@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-19",
+  "updated": "07:30 KST",
+  "headline": "오픈AI가 GPT-6.2 Astra·Sol을 내놓고 마이크로소프트는 저가 MAI 모델 7종을 공개했다 — 앤트로픽 상장 첫 거래일을 앞두고 코스피는 엔비디아 실적 덕에 5,000선을 되찾았다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {
+          "title": "오픈AI, GPT-6.2 Astra·Sol 공개 — Astra는 입력 100만 토큰당 8달러",
+          "summary": "Astra는 소프트웨어 개발·과학 연구 같은 고난도 작업용, Sol은 일상 업무와 다단계 에이전트용이다. Astra는 에이전트 평가에서 전작보다 5.2점 높으면서 작업당 비용은 3분의 1 아래라고 한다. 시스템 카드에서는 Astra가 AI 자기 개선 항목 'High', 사이버보안 항목 'Critical' 기준에 도달한 것으로 적혀 있다. ChatGPT Work·Codex·API에서 자격이 되는 사용자에게 제공된다.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+        },
+        {
+          "title": "앤트로픽, 나스닥 상장 눈앞 — 공모가 밴드 70~78달러",
+          "summary": "11월 10일 갱신된 증권신고서 기준 공모가 범위는 주당 70~78달러, 나스닥 티커는 'ANT'이며 가격 확정은 18일, 거래 시작은 19일로 예정돼 있었다. 이후 목표가를 올렸다는 보도도 나왔지만 최종 공모가는 이번 조사에서 확인하지 못했다.",
+          "source": "Decrypt·The Neuron",
+          "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion"
+        },
+        {
+          "title": "미국, 해외 클라우드 통한 중국의 첨단 칩 접근 제한 추진 — 중국은 보복 시사",
+          "summary": "미국이 해외 클라우드 컴퓨팅을 통해 중국이 첨단 칩을 쓰는 길을 막으려 하자 중국이 보복 가능성을 언급했다. 엔비디아가 중국 대상 칩 판매를 중단할 것이라는 보도도 함께 나왔으나, 공식 확인된 내용은 아니다.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+        },
+        {
+          "title": "구글 제미나이, 기록은 남기고 학습만 거부 가능 — 기록 끈 대화 보관 72시간→약 2개월",
+          "summary": "제미나이 사용자는 대화 기록을 유지하면서 AI 학습 활용만 끌 수 있게 됐다. 기록을 끈 대화의 보관 기간은 72시간에서 약 두 달로 늘었다.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+        }
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {
+          "title": "마이크로소프트 MAI Code 2·Code 2 Flash — 깃허브 코파일럿에서 바로 사용",
+          "summary": "코딩용 모델 두 종으로, 마이크로소프트는 Code 2가 GPT-6.1 Sol 품질의 98%를 약 40% 가격에 낸다고 주장한다. Flash는 일상적 수정·버그 픽스용이다. 성능·가격 수치는 회사 발표와 벤치마크 인용이며 독립 검증은 아직 없다.",
+          "source": "TestingCatalog",
+          "url": "https://www.testingcatalog.com/microsoft-launches-seven-mai-models-at-ignite-2026/"
+        },
+        {
+          "title": "마이크로소프트 MAI Image 2.7 — 이미지 1,000장당 약 34.82달러",
+          "summary": "이미지 생성·편집 모델로 파운드리 공개 프리뷰이며 fal, OpenRouter, Vercel 같은 파트너를 통해서도 쓸 수 있다. 더 싼 Flash 버전은 1,000장당 약 10달러다. 편집 부문 1위라는 평가는 Artificial Analysis 순위를 인용한 것이다.",
+          "source": "TestingCatalog",
+          "url": "https://www.testingcatalog.com/microsoft-launches-seven-mai-models-at-ignite-2026/"
+        },
+        {
+          "title": "Suno Visuals — 15초 AI 뮤직비디오 클립을 이어 붙여 긴 영상으로",
+          "summary": "음악 AI 서비스 수노가 15초짜리 뮤직비디오 클립을 만들고 여러 개를 합칠 수 있는 기능을 냈다. 영상 생성에는 유료 크레딧이 필요하다.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+        },
+        {
+          "title": "RankSpot — ChatGPT·클로드에 MCP로 연결하는 종량제 SEO 도구",
+          "summary": "검색 결과 조사, 글 생성·발행, 백링크 아웃리치까지 지원하는 종량제 SEO 도구다. 연결해 둔 ChatGPT나 클로드에서 대화로 작업을 시킨다.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+        },
+        {
+          "title": "구글 Tasks(구 Spark) — 제미나이 안의 할 일 비서, 일부 국가에 무료 확대",
+          "summary": "구글이 예전 Spark 비서를 Tasks라는 이름으로 제미나이에 넣었고 일부 국가에서 무료로 열리고 있다. 한국 제공 여부는 확인하지 못했다.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+        }
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {
+          "title": "코스피 5,067.44 마감(+1.99%), 하루 만에 5,000선 회복",
+          "summary": "엔비디아 실적 호조로 투자심리가 살아나 SK하이닉스(+4.19%)와 삼성전자(+2.31%)가 올랐다. 기관이 약 5,118억 원 순매수했고 외국인은 약 3,274억 원 순매도했다. 원·달러 환율은 5.2원 내린 1,333.0원에 마감했다.",
+          "source": "Businesskorea",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281626"
+        },
+        {
+          "title": "뉴욕증시 하락 — 다우 -1.6%, S&P500 -1.0%, AI 투자 위험 경고 이어져",
+          "summary": "AI 지출 우려 속에 미 증시가 내렸고, 헨리 폴슨 전 재무장관은 AI 투자 위험이 과소평가돼 있다고 경고했다. 한국 증시 반등이 이어질지는 변동성을 감안해 볼 필요가 있다.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+        }
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {
+          "title": "15초 음악 영상으로 릴스·숏츠 배경 만들기",
+          "summary": "수노가 15초 단위 뮤직비디오 클립을 만들고 이어 붙이는 기능을 추가했다.",
+          "tip": "카페·식당·쇼핑몰 신메뉴·신상품 홍보 릴스에 쓸 15초 배경 영상과 음악을 한 번에 만들어 보자. 우리 가게 분위기(조용한 재즈, 밝은 팝 등)를 문장으로 적어 두 가지를 뽑고, 사진과 가격 자막은 직접 얹자. 유료 크레딧이 들고 상업적 사용 조건은 약관에서 먼저 확인해야 한다."
+        },
+        {
+          "title": "SEO 글 초안을 AI에게 맡기되 발행 전 직접 확인",
+          "summary": "RankSpot처럼 검색 조사부터 글 발행까지 맡기는 종량제 도구가 나왔다.",
+          "tip": "블로그나 쇼핑몰 상품 설명을 쓸 때 '지역명+메뉴' 같은 검색어로 상위 글을 조사시키고 초안만 받자. 영업시간·가격·원산지 같은 사실은 반드시 직접 고치고, 자동 발행 기능은 처음엔 꺼 두자. 종량제라 한 달 상한 금액을 정해 두면 비용이 안전하다."
+        },
+        {
+          "title": "AI 이미지 편집 비용, 장당 50원 안팎이 현실로",
+          "summary": "MAI Image 2.7이 1,000장당 약 35달러, Flash는 약 10달러로 나왔다.",
+          "tip": "환율 약 1,333원 기준으로 장당 대략 47원(약 0.035달러) 수준이라 상품 사진 배경·분위기 바꾸기를 수십 장 돌려도 부담이 작다. 다만 현재 파운드리·파트너 플랫폼을 통한 개발자용 공개 프리뷰라서, 일반 앱으로 바로 쓰려면 이 모델을 넣은 서비스가 나올 때까지 기존 도구로 비교 테스트부터 해 두자."
+        }
+      ]
+    }
+  ]
+}
