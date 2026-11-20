@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-21",
+  "updated": "07:30 KST",
+  "headline": "앤트로픽이 나스닥 첫날 17% 오르며 역대 최대 IPO를 마쳤지만 코스피는 5% 넘게 급락해 4,870선까지 밀렸다 — 구글 제미나이는 맥 앱을 대신 조작하고, 챗GPT는 받아쓰기 시간 제한을 없앴다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {"title": "앤트로픽 나스닥 데뷔 — 공모가 83달러, 첫날 17% 상승 마감", "summary": "티커 ANT로 19일(미국시간) 상장했다. 희망 범위(70~78달러)를 웃도는 83달러에 공모가를 정했고, 첫날 종가는 97.17달러(+17%)였다. 조달액은 약 813억 달러로 역대 최대 IPO로 보도됐고 상장 시 기업가치는 약 1조 5천억 달러다. 같은 날 미국 3대 지수는 2% 안팎 하락했다.", "source": "CBS News", "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"},
+        {"title": "AMD 공매도 보고서·반도체 수출통제 우려가 AI 반도체주를 흔들었다", "summary": "공매도 업체 헌터브룩이 AMD 최신 펌웨어가 미국 제재 대상인 중국 서버업체에 흘러갔다고 주장했다. 파이낸셜타임스는 삼성·TSMC가 새 미국 수출통제로 일부 중국 고객 출하를 멈췄다고 보도한 것으로 전해졌다. 필라델피아 반도체지수는 하루 2.41% 내렸다. 모두 보도·주장 단계로 확인이 더 필요하다.", "source": "머니투데이", "url": "https://www.mt.co.kr/index.php/stock/2026/11/20/2026112015433412422"},
+        {"title": "엔비디아, 미국 승인에도 중국행 H200 출하 중단", "summary": "엔비디아가 미국 정부 허가를 받은 H200의 중국 출하를 멈췄다고 보도됐다. 중국 측 규제와 현지 업체와의 경쟁이 이유로 거론된다. 중국 시장 의존도가 큰 AI 반도체 공급망의 변수다.", "source": "The Neuron", "url": "https://www.theneuron.ai/news/why-nvidia-stopped-h200-ai-chip-shipments-china/"},
+        {"title": "메타 AI 에이전트 'Muse', 대화가 뒤섞여 개인정보가 노출됐다는 보도", "summary": "메타의 Muse 에이전트가 서로 다른 사용자의 대화를 섞어 직원이 무관한 개인 정보를 볼 수 있었다고 전해졌다. 메타는 직원이 공개 전 기능을 시험하는 중이었다고 설명했다. 보도 기준 내용이며 영향 범위는 확정되지 않았다.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"},
+        {"title": "애플, 맥을 직접 조작하는 AI 에이전트 개발 중이라는 보도", "summary": "애플이 앱을 열고 웹을 탐색하고 코드까지 쓰는 기기 제어 에이전트를 초기 단계로 개발하고 있다고 블룸버그가 보도했다. 공식 발표는 아직 없다.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"}
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {"title": "제미나이, 내 맥을 대신 쓴다 — 파일 정리·양식 작성·앱 조작", "summary": "구글 제미나이가 맥의 로컬 파일을 정리하고 양식을 채우고 앱을 조작하는 기능을 선보였다. 처음에는 미국·영어 환경의 AI Plus·Pro·Ultra 구독자에게만 제공된다.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"},
+        {"title": "구글 Genie 4 API — 텍스트로 만드는 조작 가능한 3D 세계", "summary": "제미나이 API로 720p·24fps의 상호작용형 세계를 생성한다. 소리가 함께 나오고 키보드로 조작할 수 있으며 텍스트로 환경을 바꿀 수 있다.", "source": "Google 블로그", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"},
+        {"title": "챗GPT 라이브 받아쓰기 — 10분 녹음 제한 해제", "summary": "말하는 대로 글자가 나오고 보내기 전에 직접 고칠 수 있다. 기존 10분 녹음 제한이 없어졌고 요금제별로 순차 적용 중이다.", "source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"},
+        {"title": "캔바, AI 기능 '끄기' 스위치 추가", "summary": "매직 라이트·매직 확장 같은 여러 생성 AI 도구를 끄고 검색에서 AI 콘텐츠 노출도 줄일 수 있다. 일부 AI 편집 도구는 계속 남는다.", "source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"},
+        {"title": "TestSprite 4.0 — 앱을 알아서 돌려 보고 테스트를 만들어 주는 도구", "summary": "프런트·백엔드 앱을 스스로 탐색해 테스트를 쓰고 실패 지점과 기능 퇴행을 찾아 준다. 바이브코딩으로 만든 웹앱 점검에 쓸 만하다.", "source": "Product Hunt", "url": "https://www.producthunt.com/products/testsprite"}
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {"title": "코스피 4,869.96 마감, 5.21% 급락 — 코스닥은 5.71% 하락", "summary": "앤트로픽 상장에 따른 자금 이동과 AMD 악재가 겹치며 외국인이 코스피에서 약 1조 1,400억 원 순매도했다. 삼성전자는 7.01%, SK하이닉스는 5.92% 내렸다. 원·달러 환율은 1,336.2원에 마감했다.", "source": "머니투데이", "url": "https://www.mt.co.kr/index.php/stock/2026/11/20/2026112015433412422"},
+        {"title": "뉴욕증시 3대 지수 일제 하락 — 트럼프 '해외 데이터센터 중과세' 발언", "summary": "AI·반도체주가 크게 내리며 미국 지수가 모두 약세로 마감했다. SBS는 트럼프 대통령이 미국 기업이 해외에 데이터센터를 지으면 높은 세금을 물리겠다고 말했다고 전했다. 시장 영향은 아직 분석 전이다.", "source": "SBS 뉴스", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008856598"}
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {"title": "긴 녹음 제한이 풀린 받아쓰기, 말로 콘텐츠 초안 만들기", "summary": "챗GPT 라이브 받아쓰기는 10분 제한이 없어졌고 보내기 전에 글을 고칠 수 있다.", "tip": "가게 운영 중 떠오른 메뉴 이야기·손님 반응·오늘의 작업 과정을 퇴근길에 5~10분 말로 쏟아낸 뒤, 받아쓰기 결과를 AI에게 '인스타 캡션 3안 + 블로그 초안 1개'로 다듬게 하세요. 숫자와 가격, 영업시간은 반드시 직접 확인하고 올립니다."},
+        {"title": "AI 끄기 스위치 — 직접 쓸 영역과 AI에 맡길 영역 나누기", "summary": "캔바가 생성 AI 도구를 한꺼번에 끌 수 있게 했다. AI 사용을 선택 가능한 옵션으로 보는 흐름이다.", "tip": "간판 문구·브랜드 로고·대표 메뉴 소개처럼 '우리 가게다움'이 중요한 것은 직접 쓰거나 손보고, 배경 정리·사이즈 변경·문구 후보 뽑기처럼 반복 작업만 AI에 맡기는 기준표를 한 장 만들어 두세요."},
+        {"title": "AI에 고객 대화를 넣을 땐 개인정보부터 지우기", "summary": "메타 Muse 에이전트가 대화를 섞어 노출했다는 보도가 나왔다. 확정된 사고는 아니지만 AI 도구에 넣은 정보 관리가 중요해졌다.", "tip": "후기·문의 분석이나 답글 초안을 AI에 맡길 때는 고객 이름·전화번호·주소·예약 정보를 지운 뒤 붙여 넣으세요. 예약 앱이나 단체방 캡처를 그대로 올리지 않는 습관을 가게 규칙으로 정해 두면 안전합니다."}
+      ]
+    }
+  ]
+}
