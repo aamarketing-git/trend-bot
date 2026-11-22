@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-23",
+  "updated": "07:30 KST",
+  "headline": "엔비디아 젠슨 황 CEO 사임 소식과 앤트로픽 '취약점 공개 30일' 선언이 AI 업계를 흔든 가운데, 클로드 코드 '코드 모드'와 초고속 확산형 모델 머큐리 3 등 빠르고 싼 도구가 이어졌다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {
+          "title": "젠슨 황, 엔비디아 CEO 사임 — 콜레트 크레스가 임시 CEO",
+          "summary": "엔비디아 공동창업자 젠슨 황이 CEO직에서 물러나고 재무책임자 콜레트 크레스가 임시로 맡게 됐다. 이사회 의장에는 하비 C. 존스가 처음 선임됐다. 규제 조사 보도가 이어지는 시점이라 AI 반도체 업계 관심이 크다.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038865/ceo-jensen-huang-resigns-from-chip-giant-nvidia"
+        },
+        {
+          "title": "앤트로픽, 심각한 보안 취약점 공개 유예를 90일→30일로 단축",
+          "summary": "앤트로픽이 발견한 심각한 버그를 업체에 알린 뒤 공개하기까지 주는 수정 기간을 90일에서 30일로 줄이겠다고 밝혔다. AI가 취약점을 빠르게 찾아내는 시대에 맞춰 수정 속도를 높이라는 압박이다.",
+          "source": "앤트로픽",
+          "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
+        },
+        {
+          "title": "앤트로픽 수학자 '클로드로 리만 가설 증명' 주장 — 독립 수학자들 검증 보도",
+          "summary": "앤트로픽 소속 수학자가 클로드의 도움으로 리만 가설을 증명했다고 주장했고, 증명이 기계 검증용 코드(Lean)로 공개돼 하루 뒤 인증됐다는 보도가 나왔다. 사이언티픽 아메리칸은 독립 수학자들이 사실일 가능성이 매우 높다고 평가했다고 전한다. 학계의 추가 검토가 계속될 사안이다.",
+          "source": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+        },
+        {
+          "title": "오픈AI '연구 업무 에이전트, 2~4시간짜리 과제 46% 단독 완수'",
+          "summary": "오픈AI는 AI 에이전트가 2~4시간 걸리는 연구 과제의 46%를 사람 도움 없이 끝낸다고 밝혔다. 3월 23%에서 두 배로 올랐다는 설명이지만 과제별 편차가 크다고 함께 짚었다.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier/"
+        }
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {
+          "title": "클로드 코드 '코드 모드' — 여러 도구 호출을 자바스크립트로 한 번에 묶어 실행",
+          "summary": "클로드가 여러 도구 호출을 하나씩 주고받는 대신 자바스크립트 코드로 묶어 한 번에 처리하는 방식이다. 단계가 많은 자동화 작업의 왕복 횟수를 줄이는 것이 핵심이다.",
+          "source": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/"
+        },
+        {
+          "title": "인셉션 '머큐리 3' — 초당 1,000토큰 넘게 쓰는 확산형 언어 모델",
+          "summary": "글을 한 글자씩 이어 쓰는 기존 방식이 아니라 확산(디퓨전) 방식으로 글을 생성해 초당 1,000토큰 이상 속도를 낸다는 모델이다. 즉답이 필요한 챗봇·자동 응답에 유리한 방향이다.",
+          "source": "The Rundown AI",
+          "url": "https://www.therundown.ai/news/inception-mercury-3-diffusion-ai-speed"
+        },
+        {
+          "title": "구글 제미나이 4 하이드로젠 — 더 빠르고 똑똑하지만 값은 오른 플래시 후속",
+          "summary": "구글이 플래시 계열의 후속으로 제미나이 4 하이드로젠을 내놨다. 속도와 성능은 올랐지만 이용 가격도 전작보다 비싸졌다.",
+          "source": "VentureBeat",
+          "url": "https://venturebeat.com/technology/google-launches-gemini-4-hydrogen-a-faster-smarter-pricier-flash-successor"
+        },
+        {
+          "title": "엔비디아 RTX 스파크 데스크톱 출하 시작 — 내 컴퓨터에서 AI 돌리기",
+          "summary": "엔비디아가 로컬 AI 구동용 RTX 스파크 데스크톱 판매·출하를 시작했다고 밝혔다. 클라우드 없이 PC에서 AI를 돌리려는 수요를 겨냥한 제품이다.",
+          "source": "NVIDIA 블로그",
+          "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/"
+        }
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {
+          "title": "금융지주들 '원·달러 환율 1,300원 안팎으로 내려갈 것'",
+          "summary": "하나금융은 수출업체 달러 매도로 환율이 1,300원 부근까지 내릴 것으로 보면서도 달러 강세와 고유가 변수를 경계했다. KB금융은 경상수지 흑자 덕에 내년 말까지 1,300원대 초반을 전망했다.",
+          "source": "연합뉴스(한국센터 전재)",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1441737"
+        },
+        {
+          "title": "신한금융 '반도체 성장, 소비로 안 번진다'",
+          "summary": "금융지주 3분기 보고서에서 신한금융은 반도체가 이끄는 성장이 물가·금리 부담 때문에 저소득층과 비반도체 업종의 소비로 이어지지 않는다고 짚었다. 경기 온도차가 이어질 수 있다는 뜻이다.",
+          "source": "연합뉴스(한국센터 전재)",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1441737"
+        }
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {
+          "title": "고객 문의 자동 답장은 '빠른 모델'로",
+          "summary": "머큐리 3처럼 응답 속도를 앞세운 모델이 늘고 있다. 고객은 답이 늦으면 다른 가게로 넘어간다.",
+          "tip": "인스타 DM·카카오 채널에 영업시간, 메뉴·가격, 예약 방법을 정리한 문서를 만들어 두고, 속도가 빠른 AI 모델에 연결해 자주 묻는 질문부터 즉답하게 하세요. 환불·단체 예약처럼 민감한 문의는 '사장님 확인 후 답변드려요'로 넘기는 규칙을 꼭 넣으세요."
+        },
+        {
+          "title": "경쟁업체·상권 조사는 AI에 맡기고 결과만 확인",
+          "summary": "오픈AI는 에이전트가 2~4시간짜리 조사 과제의 46%를 혼자 끝낸다고 밝혔다. 다만 절반 넘게는 사람 확인이 필요하다.",
+          "tip": "'우리 동네 카페 10곳의 이번 달 신메뉴·가격·프로모션을 표로 정리하고 출처 링크를 달아줘'처럼 요청하세요. 표의 가격과 날짜는 링크를 열어 3~4곳만 직접 확인한 뒤 메뉴·가격 전략에 반영하면 조사 시간이 크게 줄어듭니다."
+        },
+        {
+          "title": "소비 온도차 시대, '가성비·소액 혜택' 메시지로 승부",
+          "summary": "신한금융은 반도체 호황이 일반 소비로 번지지 않는다고 짚었다. 가격에 민감한 고객이 많다는 신호다.",
+          "tip": "AI로 '5천 원 추가 혜택', '2인 세트 가격 고정', '첫 방문 쿠폰' 같은 짧은 문구를 시안 10개 만들고, 인스타 스토리·네이버 플레이스 소식에 2~3개만 골라 일주일씩 테스트해 반응 좋은 문구를 남기세요. 할인율은 마진부터 계산한 뒤 정하세요."
+        }
+      ]
+    }
+  ]
+}
