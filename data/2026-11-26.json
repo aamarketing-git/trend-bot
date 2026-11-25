@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-26",
+  "updated": "07:30 KST",
+  "headline": "코스피가 6% 넘게 급락(4,697)한 가운데 한국은행이 오늘 금리 인상 여부를 결정하고, 캔바 MCP가 정식 출시됐으며 AI 에이전트를 노린 보안 이슈가 잇따랐다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {
+          "title": "미국, 메가스피드·알리바바 싱가포르 법인을 수출 블랙리스트에 추가",
+          "summary": "미국이 엔비디아 AI 칩 우회 반출 의혹의 중심에 있는 메가스피드와 알리바바의 싱가포르 법인(Apex Enterprise Solutions)을 엔티티 리스트에 올렸다는 보도입니다. 말레이시아는 데이터센터들에 블랙리스트 기업과의 거래를 끊으라고 지시했습니다.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/alibaba-apex-us-entity-list-megaspeed"
+        },
+        {
+          "title": "오픈AI·시스코, 오픈소스 'Shirudo' 공개 — AI 에이전트가 임시 방어막을 작성",
+          "summary": "AI 에이전트가 알려진 취약점 공격을 막는 임시 '방어막'을 직접 만들어 실행 중인 서버에 적용하는 오픈소스 런타임입니다. 데모에서는 코덱스가 만든 방어막이 구동 중인 엘라스틱서치에 대한 공격을 막았다고 합니다.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-shirudo/"
+        },
+        {
+          "title": "아마존 \"공격자가 AI 에이전트로 제로데이 취약점을 찾아 악용\"",
+          "summary": "아마존은 공격자들이 AI 침투 테스트 프레임워크를 이용해, 사람의 개입이 거의 없이 의료 영상 앱의 미공개 취약점을 찾아내 악용했다고 밝혔다는 보도입니다. AI가 공격 도구로도 쓰이는 사례입니다.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+        },
+        {
+          "title": "가트너 \"2027년 AI 지출의 59%가 인프라\"",
+          "summary": "가트너는 전 세계 AI 지출이 2026년 1.5조 달러에서 2027년 2.3조 달러로 늘고, 그중 AI 인프라 비중이 59%에 이를 것으로 내다봤다고 합니다. 서버·칩·데이터센터 투자가 계속 AI 시장의 중심이라는 전망입니다.",
+          "source": "The Hindu BusinessLine",
+          "url": "https://www.thehindubusinessline.com/info-tech/ai-infra-to-represent-59-of-total-global-ai-spending-in-2027-gartner/article71738042.ece"
+        }
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {
+          "title": "캔바 MCP 서버 정식 출시 — 대기자 명단 없이 사용",
+          "summary": "캔바가 AI 에이전트가 캔바와 연결되는 MCP 서버를 정식 출시하고 REST API, 명령줄 도구(CLI), 서비스 계정을 더했습니다. 캔바 이미지 모델 'Craft'도 API·MCP로 열렸으며, 캔바 집계로 10월 이후 MCP 가입이 약 50만 건에 달한다고 합니다.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/canva-mcp-ai-agents-developers"
+        },
+        {
+          "title": "구글 검색 AI 모드, 월렛·드라이브·제미나이 앱 정보와 연결(개인화)",
+          "summary": "선택해서 켜는 방식이며, 월렛 연결(지출·카드 정보 읽기 전용)이 먼저 열리고 드라이브와 제미나이 앱은 몇 주 안에 이어진다고 합니다. 내 정보를 반영한 검색 답변을 받는 기능입니다.",
+          "source": "Digital Trends",
+          "url": "https://www.digitaltrends.com/computing/google-is-connecting-wallet-to-ai-mode-in-search-and-drive-and-the-gemini-app-come-next/"
+        },
+        {
+          "title": "텐센트 HyMT3 번역 모델 오픈소스 — 102개 언어",
+          "summary": "1.8B·7B·30B-A3B 세 가지 크기로 공개됐고 지원 언어가 38개에서 102개로 늘었습니다. 오역이 43%, 누락·추가가 74% 줄었다는 수치는 텐센트 자체 발표입니다.",
+          "source": "IT之家(ITHome)",
+          "url": "https://www.ithome.com/1/031/681.htm"
+        },
+        {
+          "title": "바이두 ERNIE 5.5 Flash Preview 오픈소스(Apache 2.0)",
+          "summary": "전체 2,800억·활성 140억 파라미터에 100만 토큰 문맥을 지원하는 모델로, 웹 개발 평가에서 오픈 모델 2위라는 점수는 바이두 발표 기준입니다. 상업적으로 쓸 수 있는 라이선스로 풀렸습니다.",
+          "source": "Hugging Face",
+          "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview"
+        },
+        {
+          "title": "미스트랄, 유럽 사용자에게 코딩 에이전트 'Vibe Pro' 1개월 무료",
+          "summary": "이전 무료 체험이 1시간도 안 돼 소진되자 유럽 거주자 누구나 한 달 무료로 쓰게 했다는 공지입니다. 한국에서는 대상이 아닐 수 있어 유료 코딩 에이전트 비교 때 참고할 소식입니다.",
+          "source": "Mistral AI (X)",
+          "url": "https://x.com/MistralAI/status/2124905610386780451"
+        }
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {
+          "title": "코스피 4,697.51 마감, 6.16% 급락 — 외국인 1.95조 원 순매도",
+          "summary": "전날 미국 필라델피아 반도체지수가 7.88% 폭락한 여파로 장 초반 매도 사이드카가 발동됐습니다. 코스닥도 2.29% 내린 650.64로 마감했습니다.",
+          "source": "베타뉴스",
+          "url": "https://www.betanews.net/article/view/beta202611250140"
+        },
+        {
+          "title": "원·달러 환율 1,343.2원 마감 — 삼성전자 배당 역송금이 변수",
+          "summary": "수출업체 매도 물량이 1,350원 부근 상승을 막았지만, 증시 급락과 외국인 이탈 우려가 환율을 눌러 올렸습니다. 27일 삼성전자 배당 중 외국인 몫이 약 13.8조 원으로 추산돼 역송금 여부가 환율 변수로 꼽힙니다.",
+          "source": "베타뉴스",
+          "url": "https://www.betanews.net/article/view/beta202611250140"
+        },
+        {
+          "title": "한국은행 금통위, 오늘 기준금리 인상 여부 결정",
+          "summary": "한국은행 금융통화위원회가 26일 통화정책방향 회의를 열어 기준금리 인상 여부를 정합니다. 결과는 이 브리핑 작성 시점에는 나오지 않았습니다.",
+          "source": "베타뉴스",
+          "url": "https://www.betanews.net/article/view/beta202611250140"
+        }
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {
+          "title": "메뉴·안내문, 오픈소스 번역 모델로 다국어 만들기",
+          "summary": "텐센트가 102개 언어를 지원하는 번역 모델을 오픈소스로 풀었습니다.",
+          "tip": "외국인 손님이 많은 식당·카페라면 메뉴판 설명과 알레르기·이용 안내문을 번역 AI로 먼저 초안을 만든 뒤, 원어민 지인이나 손님에게 한 번 확인받고 QR 메뉴에 올리세요. 모델 자체는 개발 지식이 필요하니, 당장은 같은 용도의 번역 앱·챗봇으로 시작해도 됩니다."
+        },
+        {
+          "title": "캔바 MCP — 챗봇에서 디자인 작업을 바로 시키기",
+          "summary": "캔바 MCP가 정식 출시돼 AI 에이전트가 캔바와 연결되는 길이 열렸습니다.",
+          "tip": "행사·메뉴·가격이 바뀔 때마다 포스터와 인스타 카드뉴스를 처음부터 만들지 말고, 쓰던 캔바 템플릿을 기준으로 문구만 바꿔 달라고 AI에 요청하는 흐름을 시도해 보세요. 연결 방법과 지원 범위는 캔바 공지를 확인하고, 발행 전 가격·날짜는 꼭 직접 확인하세요."
+        },
+        {
+          "title": "구글 AI 모드 시대, 가게 정보를 구글에 먼저 정리해 두기",
+          "summary": "구글 AI 모드가 개인 정보와 연결되며 검색 답변이 더 개인화되는 흐름입니다.",
+          "tip": "AI가 답을 만들 때 가게 정보가 정확해야 소개되기 쉽습니다(일반적인 권장 사항). 구글 비즈니스 프로필의 영업시간·메뉴·가격·사진·최근 소식을 이번 주에 한 번 점검하고, 고객이 자주 묻는 질문은 짧은 글로 정리해 두세요."
+        }
+      ]
+    }
+  ]
+}
