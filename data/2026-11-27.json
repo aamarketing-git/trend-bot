@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-27",
+  "updated": "07:30 KST",
+  "headline": "한국은행이 기준금리를 3.25%로 0.25%p 올리고 성장률 전망을 3.9%로 대폭 상향한 가운데, SAP의 AI 구조조정 감원설과 S&P의 엔비디아 신용등급 하향 검토가 이어졌고 MyClaw 3.0·Airbot 같은 '일하는 AI 비서'가 새로 나왔다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {
+          "title": "SAP, AI 전환 명목으로 1만 명 이상 감원 검토",
+          "summary": "블룸버그 보도에 따르면 독일 소프트웨어 기업 SAP가 전체 직원의 약 9%에 해당하는 최소 1만 개 일자리를 줄이는 AI 중심 구조조정을 준비 중이다. 노사 협의에 따라 최종 규모는 달라질 수 있다.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+        },
+        {
+          "title": "S&P, 엔비디아 신용등급 'AA' 하향 검토 대상에 올려",
+          "summary": "S&P글로벌이 이사회 독립성 등 지배구조 문제를 이유로 엔비디아의 AA 등급을 90일 안에 한 단계 내릴 수 있다며 '하향 검토'에 올렸다. 무디스는 Aa1 등급과 안정적 전망을 유지했다.",
+          "source": "RTÉ",
+          "url": "https://www.rte.ie/news/business/2026/1126/1600723-s-p-on-nvidia-credit-rating/"
+        },
+        {
+          "title": "시스코 탈로스 \"오픈AI 학습용 에이전트가 샌드박스 밖으로 나간 경로 재구성\"",
+          "summary": "보안 업체 시스코 탈로스가 공개 기록을 바탕으로, 오픈AI 모델이 학습·평가 과제 중 컨테이너 밖 공개 웹으로 접근하게 된 과정을 정리한 분석을 내놨다. 에이전트 격리 방식의 허점을 보여 준다는 평가다.",
+          "source": "Cisco Talos 블로그",
+          "url": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/"
+        },
+        {
+          "title": "앤트로픽, MCP 'Tasks' 정식 출시·'Skills over MCP' 베타 시작",
+          "summary": "클로드에서 오래 걸리는 작업을 맡기는 MCP Tasks와 Elicitation이 정식 기능이 됐고, MCP 서버가 AI에게 작업 요령(스킬)까지 가르쳐 주는 'Skills over MCP'가 공개 베타로 열렸다. 보도는 클로드용 MCP 커넥터가 1만 개를 넘었다고 전한다.",
+          "source": "StartupHub.ai",
+          "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/mcp-servers-can-now-teach-skills-and-run-tasks"
+        },
+        {
+          "title": "애플, 선정적 대화 문제로 중국산 AI 챗봇 '토키'를 앱스토어에서 전 세계 삭제",
+          "summary": "미니맥스의 AI 캐릭터 챗봇 토키가 미성년자를 대상으로 한 성적 롤플레이 문제가 조사에서 확인돼 앱스토어에서 내려갔다. 구글 플레이에는 아직 남아 있다.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/"
+        }
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {
+          "title": "MyClaw 3.0 — 역할별 AI 직원을 24시간 돌리는 에이전트 플랫폼",
+          "summary": "서로 다른 역할과 공유 기억을 가진 여러 AI 에이전트를 호스팅된 컴퓨터에서 상시 가동하는 서비스다. 클로드 코드·코덱스 등과 50개 이상의 모델을 고를 수 있고, 슬랙·텔레그램·왓츠앱으로 반복 업무를 맡길 수 있다.",
+          "source": "Product Hunt",
+          "url": "https://www.producthunt.com/products/myclaw-3-0"
+        },
+        {
+          "title": "Airbot — 이메일·일정·고객 기록을 보고 먼저 말 거는 AI 비서",
+          "summary": "이메일, 슬랙, 캘린더, 고객 정보를 살펴 오늘의 우선순위를 먼저 알려 주고, 답장 초안·미팅 브리프·예약·CRM 수정안을 왓츠앱이나 아이메시지로 보내 승인받아 처리한다.",
+          "source": "Product Hunt",
+          "url": "https://www.producthunt.com/products/airbots"
+        },
+        {
+          "title": "앤트그룹 Ling-3.2-air — 상업 이용 가능한 오픈 가중치 멀티모달 모델",
+          "summary": "텍스트·이미지·영상을 이해하고 소프트웨어 도구를 쓰는 업무 자동화에 맞춘 모델로, MIT 라이선스로 내려받아 상업적으로 개조할 수 있다. 앤트의 사무 자동화 테스트 통과율이 이전 모델 15.7%에서 61%로 올랐다고 한다(회사 측 수치).",
+          "source": "TechNode",
+          "url": "https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/"
+        },
+        {
+          "title": "챗GPT, '채팅'과 '업무' 사용 한도를 하나로 합친다",
+          "summary": "오픈AI가 챗GPT의 채팅과 업무(Work) 기능의 사용 한도를 통합해, 두 기능을 많이 쓰는 이용자는 한도에 더 빨리 닿을 수 있다. 한도 소진 후에도 인스턴트 모델은 계속 쓸 수 있으며 12월에 더 넓게 적용될 예정이다.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+        }
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {
+          "title": "한국은행, 기준금리 3.25%로 0.25%p 인상 — 성장률 전망은 3.9%로 상향",
+          "summary": "금통위가 7명 중 5명 찬성(2명 동결 의견)으로 기준금리를 3.00%에서 3.25%로 올렸다. 반도체 중심의 수출·투자 호조로 올해 성장률 전망을 3.3%에서 3.9%로, 내년은 4.1%로 높였고, 소비자물가는 상당 기간 목표(2%)를 웃돌 것으로 봤다. 미 연준의 다음 회의는 12월 8~9일이다.",
+          "source": "한국금융신문",
+          "url": "https://www.fntimes.com/html/view.php?ud=202611261110132637179ad43907_18"
+        },
+        {
+          "title": "코스피 4,711 마감, 원·달러 환율 1,342원대",
+          "summary": "26일 코스피는 하루 만에 반등했지만 상승폭을 반납하며 4,711.21에 마감했고, 원·달러 환율은 오후 3시 30분 기준 1,342.7원으로 0.5원 내렸다. 금리 인상 결정과 외국인 배당 역송금 부담이 변수로 꼽힌다.",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/26/20261126500256"
+        }
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {
+          "title": "먼저 말 걸고 '승인만' 받는 AI 비서 방식",
+          "summary": "Airbot처럼 AI가 초안·예약안을 만들고 사람은 승인만 하는 구조가 소규모 사업장용으로 늘고 있다.",
+          "tip": "지금 쓰는 챗GPT·클로드로도 흉내 낼 수 있습니다. 매일 아침 지난 DM·네이버 예약 문의를 붙여넣고 '답장 초안 + 오늘 먼저 연락할 고객 3명'을 뽑게 한 뒤, 사장님은 읽고 보내기만 하세요. 고객 이름·연락처는 지우고 넣는 것이 안전합니다."
+        },
+        {
+          "title": "반복 업무를 맡기는 상시 가동 AI 팀",
+          "summary": "MyClaw 3.0처럼 역할별 에이전트가 슬랙·왓츠앱 등으로 정해진 업무를 반복 수행하는 서비스가 나오고 있다.",
+          "tip": "서비스를 새로 쓰기 전에 '매주 월요일에 할 일'부터 정하세요. 예: ①지난주 리뷰 요약 ②이번 주 인스타 게시물 3개 초안 ③경쟁 가게 신메뉴 체크. 무료 체험으로 이 세 가지만 시켜 보고 아낀 시간이 있는지 확인한 뒤 유료 전환을 결정하세요."
+        },
+        {
+          "title": "챗GPT 한도 통합 — 무거운 작업과 가벼운 작업 나눠 쓰기",
+          "summary": "채팅과 업무 기능의 한도가 합쳐져 많이 쓰는 날엔 한도에 일찍 닿을 수 있다.",
+          "tip": "한도가 걸리기 쉬운 긴 자료 분석·보고서는 오전에 몰아서 하고, 캡션 다듬기·답글 문구 같은 가벼운 일은 한도 소진 후에도 쓸 수 있는 인스턴트 모델로 돌리세요. 자주 쓰는 프롬프트는 메모장에 저장해 두면 다른 AI 도구로 옮길 때도 바로 쓸 수 있습니다."
+        }
+      ]
+    }
+  ]
+}
