@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-28",
+  "updated": "07:30 KST",
+  "headline": "코스피가 4.3% 반등해 4,915로 마감하고 코스닥은 8% 넘게 급등한 가운데, 엔비디아의 동남아 서버 출하 중단 보도와 오픈AI 한도 정정이 이어졌고 소규모 팀용 오픈소스 도구가 쏟아졌다",
+  "sections": [
+    {
+      "title": "AI 뉴스",
+      "items": [
+        {
+          "title": "앤트로픽, 클로드의 도움으로 API 소프트웨어를 파이썬에서 러스트로 이전 — CPU 사용 70% 감소",
+          "summary": "앤트로픽이 자사 API 소프트웨어를 클로드와 함께 러스트로 옮겨 CPU 사용량을 약 70% 줄였다는 소식입니다. AI가 큰 코드 이전 작업에도 쓰이기 시작했다는 사례입니다.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/news/anthropic-claude-api-rust-migration/"
+        },
+        {
+          "title": "엔비디아, 말레이시아·싱가포르·태국·인도네시아 서버 출하 중단 지시 보도",
+          "summary": "미국의 수출통제 강화 이후 엔비디아가 서버 파트너사에 동남아 4개국 출하를 멈추라고 했다는 보도입니다. 해당 지역 데이터센터 투자와 자금 조달에 차질이 생길 수 있습니다.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+        },
+        {
+          "title": "오픈AI, GPT-6.2 아스트라·솔 요금 오류 정정 — 사용 한도 더 빨리 소진",
+          "summary": "빌링 오류를 바로잡은 결과 지난주보다 아스트라는 40%, 솔은 25% 더 빨리 한도에 닿게 됐습니다. 대신 대상 구독자에게 사용량 추가 초기화, 비즈니스 사용자에게 연말까지 빠른 모드 무료가 제공됩니다.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"
+        },
+        {
+          "title": "로이터 \"미국 칩 규제로 중국 AI 모델 개발 속도 늦어져\"",
+          "summary": "Z.AI의 차세대 주력 모델이 일정보다 늦어졌고, 문샷AI는 해외 컴퓨팅 접근이 막히면 주요 모델 출시 간격이 6개월에서 1년 이상으로 벌어질 수 있다고 본다는 보도입니다.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+        },
+        {
+          "title": "마이크로소프트, 국가 지원 해커의 AI 프레임워크 'ARTEX' 사용 실태 공개",
+          "summary": "사이버 공격 작업을 전문 에이전트들에게 나눠 맡기는 프레임워크를 해커들이 쓴다는 내용이며, 마이크로소프트는 방어용 기만 기법을 권고했습니다.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/"
+        }
+      ]
+    },
+    {
+      "title": "신규 툴·모델",
+      "items": [
+        {
+          "title": "Hub — 클로드 코드·코덱스 여러 세션을 묶어 관리하는 오픈소스 디스패처",
+          "summary": "브라우저나 텔레그램으로 목표를 보내면 코디네이터가 코딩 에이전트에게 나눠 맡기고 사용자는 결정만 받습니다. 실험 단계의 도구이며 셀프호스팅이 가능합니다.",
+          "source": "Product Hunt",
+          "url": "https://www.producthunt.com/products/hub-20"
+        },
+        {
+          "title": "OpenChat — 내 클라우드플레어 계정에서 돌리는 오픈소스 라이브챗 위젯",
+          "summary": "2KB 크기의 위젯과 팀 수신함, 선택형 AI 어시스턴트를 갖춘 웹사이트 상담창 도구입니다.",
+          "source": "Product Hunt",
+          "url": "https://www.producthunt.com/products/openchat-5"
+        },
+        {
+          "title": "Moat — 월 5달러로 풀 가중치 모델을 도매가로 쓰는 구독",
+          "summary": "GLM-5.3, DeepSeek V4.1 같은 모델을 오픈라우터보다 토큰 비용을 최대 70% 낮춰 쓸 수 있다고 소개하는 서비스입니다.",
+          "source": "commandcode.ai",
+          "url": "https://commandcode.ai/moat"
+        },
+        {
+          "title": "브리아 RMBG-3.0 — 복잡한 이미지의 배경 제거 생성 모델",
+          "summary": "머리카락·유리처럼 까다로운 사진에서도 배경을 제거하도록 만든 모델이 허깅페이스에 공개됐습니다.",
+          "source": "Hugging Face",
+          "url": "https://huggingface.co/briaai/RMBG-3.0"
+        },
+        {
+          "title": "텐센트 DFly2 오픈소스 — AI 답변 속도를 높이는 추측 디코딩",
+          "summary": "여러 토큰을 먼저 예측하고 본 모델이 검증하는 방식으로, 텐센트는 DeepSeek-V4.1-Flash에서 처리량이 최대 81% 늘었다고 밝혔습니다.",
+          "source": "Tencent AI (X)",
+          "url": "https://x.com/TencentAI_News/status/2125968859450802415"
+        }
+      ]
+    },
+    {
+      "title": "오늘의 경제 한 줄",
+      "items": [
+        {
+          "title": "코스피 4.34% 급등한 4,915 마감, 코스닥은 8.13% 상승",
+          "summary": "외국인이 1조 원 넘게 순매수하며 코스피가 4,900선을 회복했습니다. 전날 낙폭을 크게 만회한 반등입니다.",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611275045i"
+        },
+        {
+          "title": "원·달러 환율 1,337.9원 마감 — 일주일 만에 1,340원 아래",
+          "summary": "월말 네고(수출업체 달러 매도)와 증시 반등이 환율을 끌어내렸습니다.",
+          "source": "네이트 뉴스",
+          "url": "https://m.news.nate.com/view/20261127n21838"
+        },
+        {
+          "title": "미 증시, 단축 거래된 블랙프라이데이에 급등 — S&P500 +1.60%, 나스닥 +2.31%",
+          "summary": "칩주가 반등을 이끌었고 다우는 1.18% 올랐습니다.",
+          "source": "JBizNews",
+          "url": "https://jbiznews.com/u-s-stocks-close-sharply-higher-in-shortened-black-friday-session-and-post-big-weekly-gains-dow-jones-industrial-average-up-1-18-sp-500-up-1-60-nasdaq-composite-up-2-31/"
+        }
+      ]
+    },
+    {
+      "title": "소상공인·마케팅 활용 포인트",
+      "items": [
+        {
+          "title": "내 가게 사이트·쇼핑몰에 자체 상담창 달기",
+          "summary": "OpenChat 같은 가벼운 오픈소스 라이브챗이 나와 월 구독료 없이 상담창을 붙일 길이 열렸습니다.",
+          "tip": "네이버 스마트스토어 외에 자체 홈페이지가 있다면 상담창을 달고, 영업시간·주차·예약 방법 같은 자주 묻는 질문 5개를 AI 어시스턴트에 미리 넣어 두세요. 개발이 어렵다면 제작 대행에 'OpenChat 설치'로 의뢰하면 됩니다."
+        },
+        {
+          "title": "상품 사진 배경, AI로 깔끔하게 지우기",
+          "summary": "RMBG-3.0 같은 배경 제거 모델이 계속 좋아지고 있습니다.",
+          "tip": "스마트폰으로 찍은 상품·메뉴 사진의 배경을 지운 뒤 흰 배경이나 시즌 배경(연말·크리스마스)을 입혀 인스타 카드뉴스와 쇼핑몰 대표 이미지를 한 번에 통일하세요. 한 번에 20장씩 묶어 처리하면 반나절 작업이 줄어듭니다."
+        },
+        {
+          "title": "AI 사용료 줄이기 — 가벼운 일은 싼 모델로",
+          "summary": "Moat처럼 도매가로 모델을 쓰게 해 주는 서비스가 나오고, 오픈AI는 사용 한도를 더 빡빡하게 조정했습니다.",
+          "tip": "후기 답글·해시태그 초안·문자 안내 같은 반복 업무는 저렴한 모델이나 무료 한도로 돌리고, 한도가 아까운 고급 모델은 월간 이벤트 기획처럼 중요한 일에만 쓰세요. 이번 달 AI 구독료를 적어 보고 안 쓰는 구독부터 정리하는 것도 방법입니다."
+        }
+      ]
+    }
+  ]
+}
